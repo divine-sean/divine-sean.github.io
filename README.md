@@ -1,1 +1,1 @@
-divine-sean.github.io
+[My Learning Journey](https://divine-sean.github.io/)
