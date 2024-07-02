@@ -4,15 +4,22 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Welcome to my learning journey! This site is dedicated to documenting my exploration of web development, programming, and system design. I'm passionate about learning new technologies and sharing insights along the way.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+### What You'll Find Here
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+- **Web Development**: Insights into HTML, CSS, JavaScript, and frameworks like React.
+- **Backend and Databases**: Exploring Node.js, Express, MongoDB, and full-stack development.
+- **System Programming**: Delving into languages like C++, assembly, and operating system concepts.
+- **Learning Resources**: I share resources, tutorials, and project insights to help others on their learning journey.
 
+### About Me
 
-[jekyll-organization]: https://github.com/jekyll
+I'm a passionate learner in the field of computing science, aiming to master both the art and science of programming and system design. Follow along as I share my progress and discoveries!
+
+### Connect With Me
+
+Feel free to reach out or connect with me:
+- [GitHub](https://github.com/divine-sean)
+- [Twitter](https://twitter.com/GithubSean)
+- Email: divinesean.github@gmail.com
